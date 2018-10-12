@@ -1,2 +1,2 @@
 First Commit Project CMS.
-Author Panca Putra PAhlawan. 2018.
+Author Panca Putra Pahlawan. 2018.
